@@ -8,5 +8,4 @@ Deep Learning project using TensorFlow/Keras to classify handwritten digits.
   
   
  ## How to Run 
- ```bash pip install -r requirements.txt
-     jupyter notebook mnist_digit_recognition.ipynb
+ ```bash pip install -r requirements.txt jupyter notebook mnist_digit_recognition.ipynb
